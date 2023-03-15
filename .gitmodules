@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PolicyPortfolios"]
-	path = PolicyPortfolios
-	url = https://github.com/xfim/policyportfolios
-	shallow = true
-	registered = true
 [submodule "ggmcmc"]
 	path = ggmcmc
 	url = https://github.com/xfim/ggmcmc
+	shallow = true
+	registered = true
+[submodule "PolicyPortfolios"]
+	path = PolicyPortfolios
+	url = https://github.com/xfim/policyportfolios
 	shallow = true
 	registered = true

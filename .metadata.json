@@ -1,10 +1,10 @@
 [
   {
-    "package": "PolicyPortfolios",
+    "package": "ggmcmc",
     "oncran": true
   },
   {
-    "package": "ggmcmc",
+    "package": "PolicyPortfolios",
     "oncran": true
   }
 ]
