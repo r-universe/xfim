@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggmcmc"]
-	path = ggmcmc
-	url = https://github.com/xfim/ggmcmc
 [submodule "PolicyPortfolios"]
 	path = PolicyPortfolios
 	url = https://github.com/xfim/policyportfolios
+[submodule "ggmcmc"]
+	path = ggmcmc
+	url = https://github.com/xfim/ggmcmc
